@@ -186,6 +186,11 @@ Hansel fights evil witches.
 Gretel uses powerful weapons.
 Muriel leads the witches.
 ```
+
+```text
+Fifteen years after escaping a witch’s gingerbread house, Hansel and Gretel have become skilled witch hunters, determined to rid the land of dark magic. Driven by a thirst for vengeance, they track down sorceresses and other dark creatures, facing perilous encounters as they do. As a blood moon approaches, the siblings must confront an ancient evil and confront secrets from their past, which may be connected to the horrors they experienced.
+```
+
 ![alt text](https://m.media-amazon.com/images/M/MV5BYTEwZmMwZjUtMDQwNi00NGI5LThjZTYtMGI3NDBmZmQ0MWJlXkEyXkFqcGc@._V1_.jpg)
 
 
@@ -233,6 +238,7 @@ H~2~O
 *Beth* travels to visit her sister *Ellie* and her family.
 
 > "Mommy is with the maggots now."
+> While visiting her sister Ellie in a cramped Los Angeles apartment, Beth unwittingly unleashes a terrifying evil after discovering a mysterious book. Demonic forces are unleashed, possessing anyone in their path and plunging the building into chaos. Beth must now fight to protect her sister's children and confront unimaginable horrors as she battles for survival against a relentless and increasingly violent onslaught.
 
 ![alt text](https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/evil-dead-rise-poster.jpg)
 
