@@ -65,3 +65,60 @@ Wednesday
 [Justwatch](https://www.justwatch.com/us/tv-show/wednesday)
 ![alt text](https://wallpapers.com/images/hd/wednesday-addams-stoic-pose-19l6cgv4t0z912en.jpg)
 
+## Extended Markdown Examples
+
+### Series Information Table
+
+| Category | Description |
+| ----------- | ----------- |
+| Title | Wednesday |
+| Genre | Mystery |
+| Platform | Netflix |
+| Release Year | 2022 |
+
+### Fenced Code Block
+
+```text
+Wednesday Addams studies at Nevermore Academy.
+```
+
+### Footnote
+
+Wednesday is one of the most popular Netflix series.[^1]
+
+[^1]: Released on Netflix in 2022.
+
+### My Great Heading {#wednesday-series}
+
+### Definition List
+
+Wednesday
+: A mystery-comedy series on Netflix.
+
+### Opinion
+
+~~Wednesday is boring.~~
+
+I actually think it is exciting!
+
+### Watch List
+
+- [x] Season 1
+- [ ] Season 2
+
+### Emoji
+
+Wednesday is amazing! 😄
+
+### Highlight
+
+I think ==Wednesday Addams== is the best character.
+
+### Subscript
+
+The formula for water is H~2~O.
+
+### Superscript
+
+Math example: X^2^
+
