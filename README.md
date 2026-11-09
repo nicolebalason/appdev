@@ -162,13 +162,12 @@ Math example: X^2^
 ---
 
 ### Official Link
-[MovieFone]https://www.moviefone.com/movie/hansel-gretel-witch-hunters/10053562/main/
+[MovieFone](https://www.moviefone.com/movie/hansel-gretel-witch-hunters/10053562/main/)
 
-![alt text][Hansel & Gretel: Witch Hunters](https://en.wikipedia.org/wiki/Hansel_%26_Gretel:_Witch_Hunters)
 
-### Image
+![alt text](https://tse3.mm.bing.net/th/id/OIP.aQeSi5y5QWKMrGnqut6gXwHaKk?r=0&w=718&h=1024&rs=1&pid=ImgDetMain&o=7&rm=3)
 
-(https://m.media-amazon.com/images/M/MV5BMTMzYWZlYTktZTRlNi00ODVkLWI3MDUtMDJhZDcxZDM3OGZlXkEyXkFqcGc@._V1_.jpg)
+
 
 ### Character Table
 
@@ -179,6 +178,7 @@ Math example: X^2^
 | Muriel | Main Villain |
 | Ben | Helper |
 
+
 ### Fenced Code Block
 
 ```text
@@ -186,7 +186,8 @@ Hansel fights evil witches.
 Gretel uses powerful weapons.
 Muriel leads the witches.
 ```
-![alt text]https://www.timesherald.com/wp-content/uploads/migration/2013/01/37a5534ff89f21ee3e3497c8aee7f882.jpg
+![alt text](https://m.media-amazon.com/images/M/MV5BYTEwZmMwZjUtMDQwNi00NGI5LThjZTYtMGI3NDBmZmQ0MWJlXkEyXkFqcGc@._V1_.jpg)
+
 
 ### Task List
 
@@ -233,7 +234,8 @@ H~2~O
 
 > "Mommy is with the maggots now."
 
-![alt text]https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/evil-dead-rise-poster.jpg
+![alt text](https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/evil-dead-rise-poster.jpg)
+
 
 
 ### Main Characters
@@ -269,7 +271,8 @@ H~2~O
 | Bridget | Ellie's daughter |
 | Kassie | Youngest child |
 
-![alt text]https://static1.srcdn.com/wordpress/wp-content/uploads/2023/04/cast-in-evil-dead-rise.jpg
+![alt text](https://static1.srcdn.com/wordpress/wp-content/uploads/2023/04/cast-in-evil-dead-rise.jpg)
+
 
 ### Fenced Code Block
 
