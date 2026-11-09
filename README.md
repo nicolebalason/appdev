@@ -17,6 +17,8 @@
 - Xavier Thorpe
 - Tyler Galpin
 
+![alt text](https://images.thedirect.com/media/article_full/wednesday-season-2-characters.jpg)
+
 ### Reasons Why I Like the Series
 
 1. Interesting storyline
@@ -80,12 +82,22 @@ Wednesday
 ```text
 Wednesday Addams studies at Nevermore Academy.
 ```
+### Wednesday Characters Role
+
+```text
+Wednesday Addams is a smart and mysterious student at Nevermore Academy.
+Enid Sinclair is Wednesday's cheerful werewolf roommate.
+Xavier Thorpe is an artist who can bring his drawings to life.
+Bianca Barclay is a talented siren and a student leader.
+Tyler Galpin works at a coffee shop and becomes one of Wednesday's friends.
+```
 
 ### Footnote
 
 Wednesday is one of the most popular Netflix series.[^1]
 
 [^1]: Released on Netflix in 2022.
+![alt text](https://tse3.mm.bing.net/th/id/OIP.WEdusO_59Li-8c18BU1tJQHaIa?r=0&w=1080&h=1226&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ### My Great Heading {#wednesday-series}
 
