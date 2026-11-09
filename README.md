@@ -65,7 +65,6 @@ Wednesday
 [Justwatch](https://www.justwatch.com/us/tv-show/wednesday)
 ![alt text](https://wallpapers.com/images/hd/wednesday-addams-stoic-pose-19l6cgv4t0z912en.jpg)
 
-## Extended Markdown Examples
 
 ### Series Information Table
 
