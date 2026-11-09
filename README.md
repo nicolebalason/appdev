@@ -62,6 +62,6 @@ Wednesday
 - [ ] Season 2
 
 ### Official Website
-[Netflix](https://www.netflix.com)
+[Justwatch](https://www.justwatch.com/us/tv-show/wednesday)
 ![alt text](https://wallpapers.com/images/hd/wednesday-addams-stoic-pose-19l6cgv4t0z912en.jpg)
 
