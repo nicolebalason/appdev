@@ -133,3 +133,182 @@ The formula for water is H~2~O.
 
 Math example: X^2^
 
+# Hansel & Gretel: Witch Hunters
+
+## Main Characters
+
+**Hansel** and **Gretel** are famous witch hunters.
+
+*Muriel* is the main villain in the movie.
+
+> "Witches are real, and they are dangerous."
+
+### Character List
+
+1. Hansel
+2. Gretel
+3. Muriel
+4. Ben
+5. Sheriff Berringer
+
+### Weapons
+
+- Crossbow
+- Shotgun
+- Magic traps
+
+`Witch Hunter`
+
+---
+
+### Official Link
+[MovieFone]https://www.moviefone.com/movie/hansel-gretel-witch-hunters/10053562/main/
+
+![alt text][Hansel & Gretel: Witch Hunters](https://en.wikipedia.org/wiki/Hansel_%26_Gretel:_Witch_Hunters)
+
+### Image
+
+(https://m.media-amazon.com/images/M/MV5BMTMzYWZlYTktZTRlNi00ODVkLWI3MDUtMDJhZDcxZDM3OGZlXkEyXkFqcGc@._V1_.jpg)
+
+### Character Table
+
+| Character | Role |
+| ---------- | ---------- |
+| Hansel | Witch Hunter |
+| Gretel | Witch Hunter |
+| Muriel | Main Villain |
+| Ben | Helper |
+
+### Fenced Code Block
+
+```text
+Hansel fights evil witches.
+Gretel uses powerful weapons.
+Muriel leads the witches.
+```
+![alt text]https://www.timesherald.com/wp-content/uploads/migration/2013/01/37a5534ff89f21ee3e3497c8aee7f882.jpg
+
+### Task List
+
+- [x] Watch the movie
+- [x] Learn the characters
+- [ ] Write a movie review
+
+### Footnote
+
+Hansel and Gretel are siblings.[^1]
+
+[^1]: They work together to hunt witches.
+
+### Emoji
+
+The movie is exciting! :smile:
+
+### Strikethrough
+
+~~Witches are friendly.~~
+
+### Highlight
+
+==Hansel and Gretel are brave heroes.==
+
+### Subscript
+
+H~2~O
+
+### Sup
+
+
+
+
+
+
+# Evil Dead Rise
+
+## Horror Movie
+
+**Evil Dead Rise** is a supernatural horror film released in 2023.
+
+*Beth* travels to visit her sister *Ellie* and her family.
+
+> "Mommy is with the maggots now."
+
+![alt text]https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/evil-dead-rise-poster.jpg
+
+
+### Main Characters
+
+1. Beth
+2. Ellie
+3. Danny
+4. Bridget
+5. Kassie
+
+### Movie Features
+
+- Horror
+- Supernatural
+- Suspense
+- Action
+
+`Necronomicon`
+
+---
+
+### Official Link
+
+[Movies Anywhere](https://moviesanywhere.com/movie/evil-dead-rise-2023)
+
+### Character Table
+
+| Character | Role |
+| ---------- | ---------- |
+| Beth | Ellie's sister |
+| Ellie | Main infected character |
+| Danny | Ellie's son |
+| Bridget | Ellie's daughter |
+| Kassie | Youngest child |
+
+![alt text]https://static1.srcdn.com/wordpress/wp-content/uploads/2023/04/cast-in-evil-dead-rise.jpg
+
+### Fenced Code Block
+
+```text
+Beth tries to save her family.
+Ellie becomes possessed by evil forces.
+Danny discovers an ancient book.
+Bridget and Kassie fight to survive.
+```
+
+### Task List
+
+- [x] Watch Evil Dead Rise
+- [x] Learn the characters
+- [ ] Write a movie review
+
+### Footnote
+
+The movie is part of the Evil Dead franchise.[^1]
+
+[^1]: Evil Dead Rise was released in 2023.
+
+### Emoji
+
+The movie is scary! :ghost:
+
+### Strikethrough
+
+~~The movie is a comedy.~~
+
+### Highlight
+
+==Evil Dead Rise is a popular horror movie.==
+
+### Subscript
+
+H~2~O
+
+### Superscript
+
+X^2^
+
